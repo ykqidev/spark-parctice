@@ -25,3 +25,7 @@ hs_err_pid*
 .idea/
 *.iml
 target/
+
+spark-v2_1_1/target
+
+spark-v2_1_1/spark-v2_1_1.iml

@@ -55,7 +55,7 @@ object FileUtil {
 
   def main(args: Array[String]): Unit = {
 
-//    println(getAllFileName("E:\\Idea_Projects\\spark-practice\\src\\main\\scala\\com\\proj\\spark"))
+//    println(getAllFileName("E:\\Idea_Projects\\spark-soaring\\src\\main\\scala\\com\\proj\\spark"))
 
     println(deleteFile("output"))
   }
